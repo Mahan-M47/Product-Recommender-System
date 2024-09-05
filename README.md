@@ -5,7 +5,7 @@ This repository contains a content-based recommender system using the [BigBasket
 The notebook file contains EDA, data preprocessing, feature engineering, model training, and testing performed on the dataset. The recommender system is built using a K-nearest neighbor model. A full report on the project can be found in the `Content-based Recommender System.pdf` file.
 
 
-Recommendation for a sample product:
+Recommendation sample for a random product:
 ![sample](./recommendation_sample.jpg)
 
 
